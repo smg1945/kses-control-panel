@@ -1,0 +1,351 @@
+.svg-icon {
+  align-self: stretch;
+  width: 34px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.kses-control-panel1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.symbol {
+  align-self: stretch;
+  width: 22.2px;
+  position: relative;
+  font-size: 22px;
+  line-height: 22.02px;
+  font-weight: 400;
+  font-family: Inter;
+  color: #6f6b7d;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+  margin: 0 0 0-22px;
+}
+.kses-control-panel-parent {
+  height: 22px;
+  flex: 1;
+  align-items: flex-start;
+}
+.graphic-svgjs-node,
+.graphic-svgjs-node-wrapper,
+.kses-control-panel-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.graphic-svgjs-node {
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+}
+.graphic-svgjs-node-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 22px 0 24px;
+}
+.symbol1 {
+  margin: 0;
+  align-self: stretch;
+  width: 22.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div,
+.link,
+.symbol1 {
+  display: flex;
+}
+.div {
+  width: 111.3px;
+  position: relative;
+  font-size: 15px;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: "Public Sans";
+  color: #6f6b7d;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 6px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 30px 18px;
+  gap: 8px;
+  font-size: 22px;
+  color: #5d596c;
+}
+.div1,
+.symbol2 {
+  position: relative;
+}
+.symbol2 {
+  height: 15.3px;
+  width: 10.6px;
+  line-height: 15.29px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div1 {
+  font-size: 15px;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: "Public Sans";
+  color: #6f6b7d;
+}
+.link1 {
+  align-self: stretch;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 36px 17px;
+  gap: 12px;
+}
+.div2,
+.symbol3 {
+  position: relative;
+}
+.symbol3 {
+  height: 15.3px;
+  width: 10.6px;
+  line-height: 15.29px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div2 {
+  font-size: 15px;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: "Public Sans";
+  color: #6f6b7d;
+}
+.link2 {
+  align-self: stretch;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 36px 17px;
+  gap: 12px;
+}
+.symbol4 {
+  height: 15.3px;
+  width: 10.6px;
+  position: relative;
+  line-height: 15.29px;
+  flex-shrink: 0;
+}
+.div3,
+.link3,
+.symbol4 {
+  display: flex;
+  align-items: center;
+}
+.div3 {
+  width: 78px;
+  position: relative;
+  font-size: 15px;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: "Public Sans";
+  color: #6f6b7d;
+  flex-shrink: 0;
+}
+.link3 {
+  align-self: stretch;
+  border-radius: 6px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 7px 36px 17px;
+  gap: 13px;
+}
+.div4,
+.symbol5 {
+  position: relative;
+}
+.symbol5 {
+  height: 15.3px;
+  width: 10.6px;
+  line-height: 15.29px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div4 {
+  font-size: 15px;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: "Public Sans";
+  color: #6f6b7d;
+}
+.item,
+.link4 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.link4 {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 36px 16px;
+  gap: 13px;
+}
+.item {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 9px;
+  gap: 4px;
+  font-size: 10.4px;
+  color: #fff;
+  font-family: Inter;
+}
+.a-t-e,
+.f-r-a-m-e-container,
+.item {
+  display: flex;
+  align-items: center;
+}
+.f-r-a-m-e-container {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 62px;
+}
+.a-t-e {
+  margin: 0;
+  width: 170px;
+  height: 33px;
+  position: relative;
+  font-size: 28px;
+  letter-spacing: 0.11em;
+  line-height: 22.05px;
+  font-weight: 500;
+  font-family: inherit;
+  color: #000;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.aside,
+.campaign-state-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.aside {
+  height: 1399px;
+  width: 260px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(165, 163, 174, 0.3);
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 20px 0 43px;
+  box-sizing: border-box;
+  gap: 956px;
+}
+.campaign-state-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 23px;
+  max-width: 100%;
+}
+.card-header-u-s-title,
+.kses-control-panel {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.card-header-u-s-title {
+  width: 1393px;
+  flex-direction: column;
+  padding: 76px 0 0;
+  max-width: 100%;
+}
+.kses-control-panel {
+  width: 100%;
+  position: relative;
+  background-color: #f8f7fa;
+  flex-direction: row;
+  padding: 1px 0 0;
+  gap: 138px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #5d596c;
+  font-family: "Public Sans";
+}
+@media screen and (max-width: 1700px) {
+  .kses-control-panel {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .aside {
+    padding-bottom: 28px;
+    box-sizing: border-box;
+  }
+  .card-header-u-s-title {
+    padding-top: 49px;
+    box-sizing: border-box;
+  }
+  .kses-control-panel {
+    gap: 138px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .aside {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .card-header-u-s-title {
+    padding-top: 32px;
+    box-sizing: border-box;
+  }
+  .kses-control-panel {
+    gap: 138px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .symbol,
+  .symbol1 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+  .f-r-a-m-e-container {
+    gap: 62px;
+  }
+  .a-t-e {
+    font-size: 22px;
+    line-height: 18px;
+  }
+  .aside {
+    gap: 956px;
+  }
+  .kses-control-panel {
+    gap: 138px;
+  }
+}
